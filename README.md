@@ -52,9 +52,9 @@ Developer → GitHub → EC2 (Build Server)
 
 | Role              | Instance  |
 | ----------------- | --------- |
-| Docker Server     | t2.micro  |
-| Kubernetes Master | t2.medium |
-| Kubernetes Worker | t2.medium |
+| Docker Server     | t3.small  |
+| Kubernetes Master | t3.small  |
+| Kubernetes Worker | t3.small  |
 
 ---
 
