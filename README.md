@@ -245,8 +245,8 @@ http://<WORKER-PUBLIC-IP>:30080
 
 ## 👤 Author
 
-**Ashu Anand**
-DevOps & Java Backend Learner 🚀
+**ashu-and-anand**
+DevOps & Java Backend Engineer 🚀
 
 ---
 
